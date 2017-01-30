@@ -34,4 +34,4 @@ sudo apt-get install freeglut3-dev
 
 Run command ”make” in the folder with the core files. To run the executable, type:
 
-./localization test <input file>
+./localization test < input file >
