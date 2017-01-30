@@ -3,6 +3,8 @@ Extended Kalman Filter based State Estimation of a differential drive robot.
 
 Feature Based Localization
 
+PLEASE READ "README.PDF" FOR DETAILED IMPLEMENTATION DETAILS.
+
 Problem Statement
 
 This challenge provides a feature based localization engine with a computer simulated 2D
